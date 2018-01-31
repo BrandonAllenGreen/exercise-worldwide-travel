@@ -1,3 +1,4 @@
+
 Wide World Travel Guides
 Part 1: Using a controller
 Setup
@@ -83,3 +84,4 @@ ng-repeat="book in books"
 A call to the data folder for guides.json using $http
 Use the $q service to wrap your http call in a promise
 $scope.books = <your array of guide books data>
+
